@@ -1,6 +1,14 @@
 body{
   background-color: #FEFFDE;
 }
+p{
+  font-family: 'Merriweather', serif;
+  color: #243D25;
+}
+li{
+  font-family: 'Merriweather', serif;
+  color: #243D25;
+}
 hr{
   border-style: none;
   border-top-style: dotted;
@@ -10,7 +18,20 @@ hr{
 }
 h1{
   color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  margin-bottom: 0;
 }
 h3{
   color: #66BFBF;
+}
+.nums{
+  font-size: 130%;
+}
+.new{
+ font-family: 'Montserrat', sans-serif;
+ color: black;
+}
+td{
+  font-size: 1.25rem;
 }
